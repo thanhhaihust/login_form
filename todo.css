@@ -1,0 +1,45 @@
+.container {
+    max-width: 100%;
+    max-height: 10000px;
+    margin: 0 auto;
+    padding: 5px;
+    background: lightgray;
+}
+.container {
+     display: flex;
+ }
+.box {
+    padding: 15px;
+    height: auto;
+    display: flex;
+    margin: auto;
+
+}
+.box {
+    background: lightgray;;
+    display: flex;
+    width: 300px;
+    height: auto;
+    flex-direction: column;
+}
+.img {
+  display: block; margin: 0 auto;"
+}
+
+.box_login {
+    background: white;
+    padding: 20px;
+    line-height: 30px;
+
+}
+.input {
+    width: 100%;
+}
+.text_center {
+    text-align: center;
+}
+.button_login {
+    width: 100%;
+    background: #56a1ec;
+    height: 30px;
+}
